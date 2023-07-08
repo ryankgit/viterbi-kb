@@ -21,7 +21,7 @@ Case and QMK files for keebio viterbi keyboard build.
 [cred-mid]: https://www.thingiverse.com/thing:2719346
 
 # Keymap
-![keymap](/qmk/keymap/keymap_v1.PNG)
+![keymap](/qmk/keymap/keymap_v2.PNG)
 
 # Licensing Info
 * The STL files in this work are licensed under a

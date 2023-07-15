@@ -16,6 +16,7 @@ Case and QMK files for keebio viterbi keyboard build.
 ### Components
 * [M2 6mm Stainless Steel Screws](https://keeb.io/collections/diy-parts/products/m2-screws-and-standoffs?variant=47874887558)
 * [M2 12mm Brass Standoffs](https://keeb.io/collections/diy-parts/products/m2-screws-and-standoffs?variant=47432051718)
+* [Hatchbox PETG (Dark Green)](https://www.hatchbox3d.com/collections/petg-1-75mm/products/dark-green-petg-filament-1-75mm-1kg-spool) - In retrospect I should have used PLA because I find it easier to print, but the parts didn't turn out too bad and the color is fun.
 
 ![case model](/images/stl_image_v1.PNG)
 
